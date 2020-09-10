@@ -2,6 +2,7 @@
 
 I am Lukasz Pasieczynski, Junior Java Developer 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=l-pasieczynski&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="l-pasieczynski"/>
 
 - 🔭 I’m currently creating my own personal projects for Portfolio
 - 🌱 I’m currently learning Angular and Android Development
@@ -9,17 +10,11 @@ I am Lukasz Pasieczynski, Junior Java Developer
 - 📫 How to reach me: [\[Linkedin - @lukasz-pasieczynski\]](linkedin.com/in/łukasz-pasieczyński-a041001a2)
 
 <br />
-
-### Github Stats: 
-
-<img src="https://github-readme-stats.vercel.app/api?username=l-pasieczynski&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="l-pasieczynski"/>
-
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## Languages and Tools I'm curently using: 
 <p align="left>
-          
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="35"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="35"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35"/>
@@ -33,8 +28,8 @@ I am Lukasz Pasieczynski, Junior Java Developer
 <br />
 <br />
 
-
-
 ### Most Used languages: 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pasieczynski&layout=compact&hide=html" alt="l-pasieczynski" />
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
