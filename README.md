@@ -9,8 +9,8 @@ I am Lukasz Pasieczynski, Junior Java Developer
 - 💬 Ask me about everything especially about tech, games, Cthulhu
 - 📫 How to reach me: [\[Linkedin\]](https://www.linkedin.com/in/%C5%82ukasz-pasieczy%C5%84ski-a041001a2/)
 
-<br />
-<br />
+<br>
+<br>
 
 ## Languages and Tools I'm curently using: 
 
@@ -23,14 +23,14 @@ I am Lukasz Pasieczynski, Junior Java Developer
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35"/>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="35"/> 
                                                                                                                                 
-<br />
-<br />
+<br>
+<br>
 
 ### Most Used languages: 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pasieczynski&layout=compact&hide=html" alt="l-pasieczynski" />
 
-<br />
-<br />
+<br>
+<br>
 
 ### Interesting Repositories: 
 <div align="left">
@@ -38,7 +38,7 @@ I am Lukasz Pasieczynski, Junior Java Developer
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=warsztat5krkw04)](https://github.com/l-pasieczynski/warsztat5krkw04)
 
 </div>
-<br />
-<br />
+<br>
+<br>
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
