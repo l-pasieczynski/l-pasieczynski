@@ -27,8 +27,9 @@ I am Lukasz Pasieczynski, Junior Java Developer
 <br />
 
 ### Most Used languages: 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pasieczynski&layout=compact&hide=html" alt="l-pasieczynski" />
 
 <br />
 <br />
+
+<img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
