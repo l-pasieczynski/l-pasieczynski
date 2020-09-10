@@ -15,7 +15,6 @@ I am Lukasz Pasieczynski, Junior Java Developer
 ## Languages and Tools I'm curently using: 
 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="35"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="35"/>
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35"/>
