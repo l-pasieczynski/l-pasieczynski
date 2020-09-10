@@ -32,8 +32,12 @@ I am Lukasz Pasieczynski, Junior Java Developer
 <br />
 <br />
 
+### Interesting Repositories: 
+<div align="left">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=warsztat5krkw04)](https://github.com/l-pasieczynski/warsztat5krkw04)
 
+</div>
 <br />
 <br />
 
