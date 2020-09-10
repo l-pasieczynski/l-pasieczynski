@@ -33,13 +33,16 @@ I am Lukasz Pasieczynski, Junior Java Developer
 <br>
 
 ### Interesting Repositories: 
-<img align="left" src="https://github.com/l-pasieczynski/Spring-MVC-REST.vercel.app/api/pin/?username=l-pasieczynski&theme=<THEME_NAME>" />
 
-<div align="left">
+<a href="https://github.com/l-pasieczynski/Spring-MVC-REST">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=Spring-MVC-REST&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=Spring-MVC-REST)](https://github.com/l-pasieczynski/Spring-MVC-REST)
 
-</div>
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 <br>
 <br>
 
