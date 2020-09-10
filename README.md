@@ -33,6 +33,8 @@ I am Lukasz Pasieczynski, Junior Java Developer
 <br>
 
 ### Interesting Repositories: 
+<img align="left" src="https://github.com/l-pasieczynski/Spring-MVC-REST.vercel.app/api/pin/?username=l-pasieczynski&theme=<THEME_NAME>" />
+
 <div align="left">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=Spring-MVC-REST)](https://github.com/l-pasieczynski/Spring-MVC-REST)
