@@ -25,10 +25,10 @@ I am Lukasz Pasieczynski, Junior Java Developer
                                                                                                                                 
 <br>
 <br>
-
+<div>
 ### Most Used languages: 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pasieczynski&layout=compact&hide=html" alt="l-pasieczynski" />
-
+</div>
 <br>
 <br>
 
