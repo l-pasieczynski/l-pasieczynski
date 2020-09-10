@@ -33,15 +33,15 @@ I am Lukasz Pasieczynski, Junior Java Developer
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/l-pasieczynski/Javascript-i-jQuery-REST">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=Javascript-i-jQuery-REST&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <br>
 <br>
 
 ### Most Used languages: 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pasieczynski&layout=compact&hide=html" alt="l-pasieczynski" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pasieczynski&layout=compact&hide=html" alt="l-pasieczynski" />
 <br>
 <br>
 
