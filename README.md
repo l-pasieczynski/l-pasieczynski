@@ -7,7 +7,7 @@ I am Lukasz Pasieczynski, Junior Java Developer
 - 🔭 I’m currently creating my own personal projects for Portfolio
 - 🌱 I’m currently learning Angular and Android Development
 - 💬 Ask me about everything especially about tech, games, Cthulhu
-- 📫 How to reach me: [\[Linkedin - @lukasz-pasieczynski\]](linkedin.com/in/łukasz-pasieczyński-a041001a2)
+- 📫 How to reach me: [\[Linkedin\]](https://www.linkedin.com/in/%C5%82ukasz-pasieczy%C5%84ski-a041001a2/)
 
 <br />
 <br />
@@ -28,6 +28,11 @@ I am Lukasz Pasieczynski, Junior Java Developer
 
 ### Most Used languages: 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pasieczynski&layout=compact&hide=html" alt="l-pasieczynski" />
+
+<br />
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=warsztat5krkw04)](https://github.com/l-pasieczynski/warsztat5krkw04)
 
 <br />
 <br />
