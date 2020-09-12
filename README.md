@@ -34,7 +34,7 @@ I am Lukasz Pasieczynski, Junior Java Developer
 
 
 <a href="https://github.com/l-pasieczynski/Javascript-jQuery-REST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=Javascript-i-jQuery-REST&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=Javascript-jQuery-REST&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <br>
