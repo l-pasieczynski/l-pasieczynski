@@ -7,7 +7,7 @@ I am Lukasz Pasieczynski, Junior Java Developer
 - 🔭 I’m currently creating my own personal projects for Portfolio
 - 🌱 I’m currently learning Angular and Android Development
 - 💬 Ask me about everything especially about tech, games, Cthulhu
-- 📫 How to reach me: [\[Linkedin\]](https://www.linkedin.com/in/%C5%82ukasz-pasieczy%C5%84ski-a041001a2/)
+- 📫 How to reach me: [\[Linkedin\]](https://www.linkedin.com/in/l-pasieczynski/)
 
 <br>
 <br>
