@@ -28,6 +28,26 @@ I am Lukasz Pasieczynski, Junior Java Developer
 
 ### Interesting Repositories: 
 
+<a href="https://github.com/l-pasieczynski/CharityApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=CharityApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/l-pasieczynski/SurveyApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=SurveyApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/l-pasieczynski/RecipeApp-Spring">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=RecipeApp-Spring&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/l-pasieczynski/RecipeApp-Servlets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=RecipeApp-Servlets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 <a href="https://github.com/l-pasieczynski/Spring-MVC-REST">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-pasieczynski&repo=Spring-MVC-REST&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
